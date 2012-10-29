@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>blankScratchpad@loucypher</em:id>
+    <em:type>2</em:type>
+    <em:unpack>true</em:unpack>
+    <em:name>Blank Scratchpad</em:name>
+    <em:version>0.1a</em:version>
+    <em:description>Remove the introduction text on Firefox Scratchpad.</em:description>
+    <em:homepageURL>http://loucypher.github.com/blank-scratchpad</em:homepageURL>
+    <em:localized>
+      <Description>
+        <em:locale>en-US</em:locale>
+        <em:name>Blank Scratchpad</em:name>
+        <em:description>Remove the introduction text on Firefox Scratchpad.</em:description>
+        <em:creator>LouCypher</em:creator>
+      </Description>
+    </em:localized>
+    <em:localized>
+      <Description>
+        <em:locale>id</em:locale>
+        <em:name>Blank Scratchpad</em:name>
+        <em:description>Menghapus teks perkenalan pada Scratchpad untuk Firefox.</em:description>
+        <em:creator>LouCypher</em:creator>
+      </Description>
+    </em:localized>
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>14.0</em:minVersion>
+        <em:maxVersion>18.0a2</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>
