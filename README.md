@@ -2,6 +2,9 @@
 
 Remove the introduction text on Firefox Scratchpad.
 
+[![before](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/81/81215.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/81/81215.png)
+[![after](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/81/81213.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/81/81213.png)
+
 ## Compatibility
 
 Firefox 14.0 - 18.0a2
