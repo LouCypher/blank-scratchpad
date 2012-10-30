@@ -6,9 +6,9 @@
     <em:type>2</em:type>
     <!--em:unpack>true</em:unpack-->
     <em:name>Blank Scratchpad</em:name>
-    <em:version>0.1a2012103002</em:version>
+    <em:version>0.1a2012103003</em:version>
     <em:description>Remove the introduction text on Firefox Scratchpad.</em:description>
-    <em:homepageURL>http://loucypher.github.com/blank-scratchpad</em:homepageURL>
+    <em:homepageURL>http://loucypher.github.com/blank-scratchpad/</em:homepageURL>
     <em:localized>
       <Description>
         <em:locale>en-US</em:locale>
