@@ -8,6 +8,7 @@ Firefox 14.0 - 18.0a2
 
 ## Installation
 
+* [Release versions](https://addons.mozilla.org/addon/blank-scratchpad/?src=external-home)
 * [Dev builds](https://github.com/LouCypher/blank-scratchpad/downloads)
 
 ## Supports
