@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>blankScratchpad@loucypher</em:id>
     <em:type>2</em:type>
-    <em:unpack>true</em:unpack>
+    <!--em:unpack>true</em:unpack-->
     <em:name>Blank Scratchpad</em:name>
     <em:version>0.1a2012103002</em:version>
     <em:description>Remove the introduction text on Firefox Scratchpad.</em:description>
