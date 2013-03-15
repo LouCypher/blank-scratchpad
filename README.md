@@ -2,16 +2,16 @@
 
 Remove the introduction text on Firefox Scratchpad.
 
-[![before](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/81/81215.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/81/81215.png)
-[![after](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/81/81213.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/81/81213.png)
+[![Before](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/93/93741.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/93/93741.png "Before")
+[![After](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/93/93739.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/93/93739.png "After")
 
 ## Compatibility
 
-Firefox 14.0 - 18.0a2
+Firefox 14.0 - 21.0a2
 
 ## Installation
 
-* [Release versions](https://addons.mozilla.org/addon/blank-scratchpad/?src=external-home)
+* [Release versions](https://addons.mozilla.org/firefox/downloads/latest/405305/addon-405305-latest.xpi?src=external-home)
 * [Dev builds](https://github.com/LouCypher/blank-scratchpad/downloads)
 
 ## Supports
