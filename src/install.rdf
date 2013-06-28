@@ -4,9 +4,9 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>blankScratchpad@loucypher</em:id>
     <em:type>2</em:type>
-    <!--em:unpack>true</em:unpack-->
+    <em:unpack>false</em:unpack>
     <em:name>Blank Scratchpad</em:name>
-    <em:version>0.1</em:version>
+    <em:version>0.2</em:version>
     <em:description>Remove the introduction text on Scratchpad.</em:description>
     <em:homepageURL>http://loucypher.github.com/blank-scratchpad/</em:homepageURL>
     <em:localized>
@@ -28,8 +28,8 @@
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-        <em:minVersion>14.0</em:minVersion>
-        <em:maxVersion>21.0a2</em:maxVersion>
+        <em:minVersion>17.0</em:minVersion>
+        <em:maxVersion>24.0a2</em:maxVersion>
       </Description>
     </em:targetApplication>
   </Description>
