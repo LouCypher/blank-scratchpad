@@ -7,12 +7,11 @@ Remove the introduction text on Firefox Scratchpad.
 
 ## Compatibility
 
-Firefox 14.0 - 21.0a2
+Firefox 17.0 - 26.0a2
 
 ## Installation
 
-* [Release versions](https://addons.mozilla.org/firefox/downloads/latest/405305/addon-405305-latest.xpi?src=external-home)
-* [Dev builds](https://github.com/LouCypher/blank-scratchpad/downloads)
+* [Mozilla Add-ons](https://addons.mozilla.org/addon/blank-scratchpad/?src=external-home)
 
 ## Supports
 
