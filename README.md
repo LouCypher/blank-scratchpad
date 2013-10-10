@@ -1,6 +1,6 @@
 # Blank Scratchpad
 
-Remove the introduction text on Firefox Scratchpad.
+Remove introductory text on Firefox Scratchpad.
 
 [![Before](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/93/93741.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/93/93741.png "Before")
 [![After](https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/93/93739.png)](https://addons.cdn.mozilla.net/img/uploads/previews/full/93/93739.png "After")
@@ -11,7 +11,7 @@ Firefox 17.0 - 26.0a2
 
 ## Installation
 
-* [Mozilla Add-ons](https://addons.mozilla.org/addon/blank-scratchpad/?src=external-home)
+* from [Mozilla Add-ons](https://addons.mozilla.org/addon/blank-scratchpad/?src=external-home)
 
 ## Supports
 
