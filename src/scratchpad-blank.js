@@ -13,9 +13,12 @@
     try {
       initialText = Scratchpad.strings.GetStringFromName("scratchpadIntro");
     } catch(ex) {
-      var prettyKey = ("SP_Pretty_Key" in window) ? SP_Pretty_Key
-                                                  : LayoutHelpers.prettyKey;
-
+      var prettyKey = "DevtoolsHelpers" in window
+                      ? DevtoolsHelpers.prettyKey
+                      : "LayoutHelpers" in window
+                        ? LayoutHelpers.prettyKey
+                        : SP_Pretty_Key;
+                      
       initialText =  Scratchpad.strings.formatStringFromName(
         "scratchpadIntro1",
         [prettyKey(document.getElementById("sp-key-run")),

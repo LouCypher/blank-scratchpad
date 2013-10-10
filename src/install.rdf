@@ -6,7 +6,7 @@
     <em:type>2</em:type>
     <em:unpack>false</em:unpack>
     <em:name>Blank Scratchpad</em:name>
-    <em:version>0.2</em:version>
+    <em:version>0.2.1</em:version>
     <em:description>Remove introductory text on Scratchpad.</em:description>
     <em:homepageURL>http://loucypher.github.io/blank-scratchpad/</em:homepageURL>
     <em:localized>
