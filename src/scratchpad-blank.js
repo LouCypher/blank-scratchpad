@@ -8,30 +8,19 @@
  */
 
 (function() {
-  function clearInitialText() {
-    var initialText = null;
-    try {
-      initialText = Scratchpad.strings.GetStringFromName("scratchpadIntro");
-    } catch(ex) {
-      var prettyKey = "DevtoolsHelpers" in window
-                      ? DevtoolsHelpers.prettyKey
-                      : "LayoutHelpers" in window
-                        ? LayoutHelpers.prettyKey
-                        : SP_Pretty_Key;
-                      
-      initialText =  Scratchpad.strings.formatStringFromName(
-        "scratchpadIntro1",
-        [prettyKey(document.getElementById("sp-key-run")),
-         prettyKey(document.getElementById("sp-key-inspect")),
-         prettyKey(document.getElementById("sp-key-display"))], 3);
-    }
+  function $(aId) document.getElementById(aId);
 
-    if (Scratchpad.editor._config.initialText == initialText) {
-      Scratchpad.editor._config.initialText = "";
-    }
+  function clearInitialText() {
+    let prettyKey = ShortcutUtils.prettifyShortcut;
+    let initialText = Scratchpad.strings.formatStringFromName(
+                      "scratchpadIntro1", [prettyKey($("sp-key-run")),
+                                           prettyKey($("sp-key-inspect")),
+                                           prettyKey($("sp-key-display"))], 3);
+
+    if (Scratchpad.editor.config.value === initialText)
+      Scratchpad.editor.config.value = "";
   }
 
   addEventListener("load", clearInitialText);
   removeEventListener("unload", clearInitialText);
-
 })()
