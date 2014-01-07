@@ -1,2 +1,3 @@
 content   blankscratchpad                                   ./
+overlay   chrome://browser/content/scratchpad.xul           chrome://blankscratchpad/content/scratchpadOverlay.xul appversion<23.0
 overlay   chrome://browser/content/devtools/scratchpad.xul  chrome://blankscratchpad/content/scratchpadOverlay.xul
