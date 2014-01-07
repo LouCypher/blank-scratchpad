@@ -7,7 +7,7 @@ Remove introductory text on Firefox Scratchpad.
 
 ## Compatibility
 
-Firefox 17.0 - 26.0a2
+Firefox 17.0 - 29.0
 
 ## Installation
 
@@ -22,4 +22,3 @@ Firefox 17.0 - 26.0a2
 [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/)
 
 [![Flattr this!](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?url=https%3A%2F%2Fgithub.com%2FLouCypher%2Fblank-scratchpad "Flattr this!")
-[![Endorse me](http://api.coderwall.com/loucypher/endorsecount.png)](http://coderwall.com/loucypher "Endorse me at Coderwall")
